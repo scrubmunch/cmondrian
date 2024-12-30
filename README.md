@@ -2,7 +2,7 @@
 
 A terminal-based Mondrian-style art generator, creating abstract compositions inspired by Piet Mondrian's work.
 
-![CMondrian Demo](images/example.jpg)
+![CMondrian Demo](images/example1.jpg)
 
 ## Installation
 
